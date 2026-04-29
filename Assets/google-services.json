@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1027483061974",
+    "firebase_url": "https://p3tsp26262lmpa-default-rtdb.firebaseio.com",
+    "project_id": "p3tsp26262lmpa",
+    "storage_bucket": "p3tsp26262lmpa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027483061974:android:9595fd3c70f9fd31124377",
+        "android_client_info": {
+          "package_name": "com.lperezacolt.P3TSP20262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_Mw1RevbuZZSi817B0X9x8MvMNwDWJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
